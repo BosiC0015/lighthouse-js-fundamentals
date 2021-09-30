@@ -1,4 +1,3 @@
-/*
 const raining = true;
 const cold = false;
 if (raining) {
@@ -8,16 +7,14 @@ if (cold) {
   console.log('Make sure you pick out a scarf!');
 }
 console.log('Now you\'re ready to go outside!');
-*/
-/*
-const cold = false;
+
+//const cold = false;
 if (cold) {
   console.log('Make sure you pick out a scarf!');
 } else {
   console.log('Short sleeves are fine.');
 }
-*/
-/*
+
 const temperature = -10;
 if (temperature < 0) {
   console.log('Make sure you pick out a scarf!');
@@ -27,10 +24,11 @@ if (temperature < 0) {
   console.log('Short sleeves are fine.')
 }
 console.log('Now you\'re ready to go outside!');
-*/
+
 
 const isCitizen = true;
 const age = 26;
 if (isCitizen && age > 18) {
   console.log("You are eligible to vote.");
 }
+
